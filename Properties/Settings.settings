@@ -1,0 +1,51 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Stealth_Compressor.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="COMPRESSION_LEVEL" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">6</Value>
+    </Setting>
+    <Setting Name="COMPRESSION_METHOD" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Deflate</Value>
+    </Setting>
+    <Setting Name="COMPRESSION_STRATEGY" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Default</Value>
+    </Setting>
+    <Setting Name="IO_BUFFER_SIZE" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">4096</Value>
+    </Setting>
+    <Setting Name="CODEC_BUFFER_SIZE" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">4096</Value>
+    </Setting>
+    <Setting Name="MEMORY_ARCHIVE" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="USE_ZIP64" Type="System.String" Scope="User">
+      <Value Profile="(Default)">As Needed</Value>
+    </Setting>
+    <Setting Name="ENCRYPT_ARCHIVE" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="PASSWORD_MASK" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="PASSWORD_VALIDATE" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="PASSWORD_FORMAT" Type="System.String" Scope="User">
+      <Value Profile="(Default)">******</Value>
+    </Setting>
+    <Setting Name="ENCRYPTION_ALGORITHM" Type="System.String" Scope="User">
+      <Value Profile="(Default)">PkzipWeak</Value>
+    </Setting>
+    <Setting Name="OPEN_ON_COMPLETION" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="ALERT_ON_COMPLETION" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="UNITS" Type="System.String" Scope="User">
+      <Value Profile="(Default)">KB</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
